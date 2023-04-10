@@ -1,0 +1,107 @@
+body{
+    background-color:#181818 ;
+}
+.head{
+    display: flex;
+}
+.Rectangle{
+    width: 186px;
+    height: 58px;
+    margin-top: 30px;
+    margin-left: 281px;
+}
+.head_text{
+    display: flex;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-left:136px;
+    gap: 40px;
+}
+.head_button{
+    width: 139px;
+    height: 52px;
+    margin-left:183.5px;
+    margin-top: 33px;
+    background: none;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    border: 1px solid #FFFFFF;
+}
+.text1{
+    width: 709px;
+    height: 176px;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 142.5px;
+    margin-left: 435px;
+}
+.text2{
+    width: 582px;
+    height: 60px;
+    margin-top: 37px;
+    margin-left: 498.5px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.button{
+    width: 174px;
+    height: 65px;
+    margin-left:809px;
+    margin-top: 95px;
+    background: none;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    border: 1px solid #FFFFFF;
+}
+.layer{
+    position: absolute;
+    height: 551px;
+    width: 1579px;
+    left: 0px;
+    top: 1124px;
+    border-radius: 0px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0E0E0E 66.15%);
+}
+.dashboard{
+    height: 542.74px;
+    width: 712.67px;
+    margin-left: 424.67px;
+    border-radius: 0px;
+}
+.board{
+width: 734.23;
+height: 543.18px;
+margin-top: -253px;
+margin-left: 70px;
+}
+.chatbot{
+width: 730.34px;
+height: 569.77px;
+margin-top: -567px;
+margin-left: 759px;
+}
+.img{
+width: 1443.9px;
+height: 841px;
+margin-left: 67.49px;
+margin-top: -821px;
+}
