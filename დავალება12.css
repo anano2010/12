@@ -60,10 +60,14 @@ body{
     color: #FFFFFF;
 }
 .button{
+    margin-left:596px;
+    margin-top: 95px;
+    display: flex;
+}
+.button2{
     width: 174px;
     height: 65px;
-    margin-left:809px;
-    margin-top: 95px;
+    margin-left:35px;
     background: none;
     color: #FFFFFF;
     font-weight: 500;
@@ -71,6 +75,17 @@ body{
     line-height: 25px;
     letter-spacing: 0.2px;
     border: 1px solid #FFFFFF;
+}
+.button1{
+    width: 174px;
+    height: 65px;
+    background:#4452FE;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    border: 1px solid #4452FE;
 }
 .layer{
     position: absolute;
